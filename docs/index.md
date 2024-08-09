@@ -133,6 +133,8 @@ defaults rename ${domain} ${old_key} ${new_key}
 
 - [Flash clock time separators](./menubar/flashdateseparators.md)
 - [Set menubar digital clock format](./menubar/dateformat.md)
+- [Autohide](./menubar/hihidemenubar.md)
+- [Display in fullscreen](./menubar/applemenubarvisibleinfullscreen.md)
 
 ### Mouse
 

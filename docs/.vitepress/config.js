@@ -321,6 +321,14 @@ export default defineConfig({
             text: 'Set menubar digital clock format',
             link: '/menubar/dateformat.md',
           },
+          {
+            text: 'Autohide',
+            link: '/menubar/hihidemenubar.md',
+          },
+          {
+            text: 'Display in fullscreen',
+            link: '/menubar/applemenubarvisibleinfullscreen.md',
+          },
         ],
       },
       {

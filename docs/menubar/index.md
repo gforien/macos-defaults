@@ -18,3 +18,5 @@ The menu bar runs along the top of the screen on your Mac. Use the menus and ico
 
 - [Flash clock time separators](./flashdateseparators.md)
 - [Set menubar digital clock format](./dateformat.md)
+- [Autohide](./hihidemenubar.md)
+- [Display in fullscreen](./applemenubarvisibleinfullscreen.md)
